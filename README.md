@@ -10,8 +10,7 @@
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
 </head>
 <body>
-   
-      
+
         <div class="header">
             <div class="home">My Wallets</div>
     
