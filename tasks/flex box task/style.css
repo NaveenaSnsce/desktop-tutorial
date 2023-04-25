@@ -1,0 +1,26 @@
+.container {
+    height: 100vh;
+    margin: 0px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+  }
+  
+  .flexbox {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: rgb(52, 230, 230);
+    height: 300px;
+    width: 300px;
+    padding: 30px;
+  }
+
+  
+  .item {
+    background-color: #fd2b2b;
+    height: 60px;
+    width: 60px;
+  }
+  
